@@ -20,16 +20,14 @@
    - Use colors and animations to display the Plinko board and ball movement.
 
 ## Optional Enhancements
-1. **Interactive UI**:
-   Use libraries like `Tkinter` or `Pygame` for more dynamic visuals.
 
-2. **Advanced Randomization**:
+1. **Advanced Randomization**:
    Introduce weighted randomness to simulate real-world physics.
 
-3. **Elimination Visualization**:
+2. **Elimination Visualization**:
    Highlight eliminated players as their balls drop into "No."
 
-4. **Music & Sounds**:
+3. **Music & Sounds**:
    Add sound effects for the balls bouncing off pegs and hitting the outcome slots.
 
 ## Resources
