@@ -31,4 +31,4 @@
    Add sound effects for the balls bouncing off pegs and hitting the outcome slots.
 
 ## Resources
-- [Stakes Plinko Implementation by Harkirat]https://www.youtube.com/watch?v=l5bRPWxun4A&list=PLVKLWop9wWA8rdaNPIsG6r4a6QZClCH-M
+- [Stakes Plinko Implementation by Harkirat](https://www.youtube.com/watch?v=l5bRPWxun4A&list=PLVKLWop9wWA8rdaNPIsG6r4a6QZClCH-M)
